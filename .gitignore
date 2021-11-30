@@ -1,0 +1,13 @@
+vendor
+config.json
+.realize.yaml
+tmp
+air
+.air.conf
+hypefast-api
+chi-rest
+.DS_Store
+.ServiceAccountKey.json
+./.idea
+.vscode/
+out
